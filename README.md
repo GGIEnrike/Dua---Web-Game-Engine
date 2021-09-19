@@ -1,3 +1,2 @@
-# js-swuq5b
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-swuq5b)
+# Dua - Web Game Engine
+Dua is a game engine based on WebGL, WebAssembly..
